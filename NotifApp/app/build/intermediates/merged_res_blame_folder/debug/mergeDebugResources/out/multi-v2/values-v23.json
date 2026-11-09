@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "pt.demo.notif.app-mergeDebugResources-18:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Utilizador\\.gradle\\caches\\9.3.0\\transforms\\40fc6e45f4f59eb82e526694492cc8a4\\workspace\\transformed\\work-runtime-2.9.1\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}
