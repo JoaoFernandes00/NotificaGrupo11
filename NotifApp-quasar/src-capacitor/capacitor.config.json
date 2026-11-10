@@ -1,0 +1,8 @@
+{
+  "appId": "pt.demo.notif",
+  "appName": "Notificações",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

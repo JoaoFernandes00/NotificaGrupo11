@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Notificações</string>
+    <string name="title_activity_main">Notificações</string>
+    <string name="package_name">pt.demo.notif</string>
+    <string name="custom_url_scheme">pt.demo.notif</string>
+</resources>

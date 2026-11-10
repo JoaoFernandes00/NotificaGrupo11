@@ -1,0 +1,32 @@
+{
+  "name": "notif-app",
+  "version": "1.0.0",
+  "description": "Notificações locais e tarefas em background (Quasar + Capacitor)",
+  "productName": "Notificações",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "quasar dev",
+    "build": "quasar build",
+    "setup:android": "node scripts/setup-android.mjs",
+    "dev:android": "quasar dev -m capacitor -T android",
+    "build:android": "quasar build -m capacitor -T android"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.2.0",
+    "@capacitor/local-notifications": "^6.1.0",
+    "@quasar/extras": "^1.16.12",
+    "quasar": "^2.17.0",
+    "vue": "^3.5.0",
+    "vue-router": "^4.4.0"
+  },
+  "devDependencies": {
+    "@quasar/app-vite": "^3.10.4",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38"
+  },
+  "engines": {
+    "node": "^20 || ^22",
+    "npm": ">= 6.13.4"
+  }
+}
